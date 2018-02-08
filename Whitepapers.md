@@ -1527,3 +1527,4 @@
 | Zonto World | ZONTO | https://ico.zonto.world/doc/en/en_zonto_whitepaper.pdf | https://ico.zonto.world/ | N/P* |
 | Zrcoin | ZrCoin | https://zrcoin.io/files/Whitepaper_ENG.pdf | https://zrcoin.io/ | N/P* |
 | Ztrust | An open protocol for decentralized reputation on the Ethereum blockchain | https://ztrust.tech/whitepaper.pdf | https://ztrust.tech/ | N/P* |
+| Cryptoloans | First blockchain platform for secure lending, trading and exchange cryptocurrency | https://www.cryptoloans.top/docs/Cryptoloans_White_Paper_English_Version.pdf | https://www.cryptoloans.top | N/P* |
